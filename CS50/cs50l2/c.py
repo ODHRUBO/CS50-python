@@ -1,0 +1,1 @@
+print("mewo\n"*4,end="")
